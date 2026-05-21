@@ -1,2 +1,2 @@
-# auto-toot-com
+# autotoot
 Auto toot commits
